@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "name",
+        "author": "author",
+        "year": 2024,
+        "status": "в наличии"
+    },
+    {
+        "id": 2,
+        "title": "Harry Potter",
+        "author": "J.K.Rowling",
+        "year": 2000,
+        "status": "в наличии"
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "year": 1949,
+        "status": "выдано"
+    }
+]
